@@ -569,7 +569,7 @@ body {
   width: 69px;
   height: 69px;
   margin-right: 30px;
-  background: url("../../res/image/questionIcon.png") top left/contain no-repeat;
+  background: url("../res/image/questionIcon.png") top left/contain no-repeat;
 }
 .question__text {
   width: 410px;
